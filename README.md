@@ -1,2 +1,2 @@
-# Regressor Analysis on Algology Data-set
-The goal of this analysis is obtaining best error rate with regressors on Algology Data-set. This data-set includes applied methods and approahces on some patients. We got the pain level differences (after 1 hour - initial) as a continues target values.
+# Exploring Regression Models to Automatically Estimate the Success of Physiotherapy Procedures on Reducing the Pain Level of Patients
+The goal of this analysis is to explore machine learning-based regression models to automatically predict the pain level differences of patients with chronic back and/or shoulder pain. Pain management is vital to improve the quality of life by preventing sleeplessness, and increasing the ability to think and function properly. Such an analysis is intended to result in identifying the amount of right drugs and techniques needed for pain management.
